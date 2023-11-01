@@ -1,0 +1,7 @@
+elasticsearch==6.1.1
+redis==2.10.5
+SQLAlchemy==1.1.14
+pytest==5.2.1
+attrs==19.1.0
+mysqlclient==1.4.4
+zipp==1.1.0

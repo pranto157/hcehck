@@ -1,0 +1,6 @@
+elasticsearch==6.1.1
+redis==2.10.5
+MySQL-python==1.2.5
+SQLAlchemy==1.1.14
+pytest==3.3.2
+attrs==19.1.0
